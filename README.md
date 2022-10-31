@@ -157,10 +157,7 @@ for w, true, pred in zip(X_test[i], y_true, p[0]):
 
 ## OUTPUT
 
-![image](https://user-images.githubusercontent.com/115688029/198997371-cff150e5-ef2b-4cf3-a928-ffa3486f6eda.png)
-![image](https://user-images.githubusercontent.com/115688029/198997583-1086b50b-a980-44c1-8d38-782a081a38d9.png)
-![image](https://user-images.githubusercontent.com/115688029/198997848-d23ccdc1-7da0-4b75-a6b4-1396823a7c0c.png)
-![image](https://user-images.githubusercontent.com/115688029/198998184-bc5b369f-ff73-48a6-aad2-f493f1c33350.png)
+
 
 
 ## RESULT
