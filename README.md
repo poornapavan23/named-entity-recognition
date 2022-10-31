@@ -153,7 +153,7 @@ print("{:15}{:5}\t {}\n".format("Word", "True", "Pred"))
 print("-" *30)
 for w, true, pred in zip(X_test[i], y_true, p[0]):
     print("{:15}{}\t{}".format(words[w-1], tags[true], tags[pred]))
-    ```
+    
 
 ## OUTPUT
 ![image](https://user-images.githubusercontent.com/115688029/198997371-cff150e5-ef2b-4cf3-a928-ffa3486f6eda.png)
